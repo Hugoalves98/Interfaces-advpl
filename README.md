@@ -1,2 +1,2 @@
 # Interfaces-advpl
-Acredito que todas você conseguirá executar no seu IDE, mas para tanto saiba que precisa dos protheus etc, qm n tem a ambientação do protheus n conseguirá executar os códigos, pois precisa do include sobretudo.
+Algumas será possível executar no VScode tende a extensão da TOTVS e outras somente no protheus por se tratar de interface 
